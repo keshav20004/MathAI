@@ -1,6 +1,6 @@
 numpy
 cvzone
-cv2
-google.generativeai 
-PIL 
+opencv-python
+google.generativeai
+Pillow  # PIL is usually specified as Pillow in requirements
 streamlit
